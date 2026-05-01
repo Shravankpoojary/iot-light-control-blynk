@@ -49,6 +49,12 @@ or LED accordingly.
 4. Copy your Auth Token and Template ID from Blynk Console
 
 5. <img width="1376" height="768" alt="Firefly_Gemini Flash_similalry  iam going to upload this image to GitHub , i think there are some sensitiv 184744" src="https://github.com/user-attachments/assets/e52f3578-0b3a-493c-8f5c-78d129627f4a" />
+
+
+
+
+             Figure 1:Blynk Cloud Console showing device configuration and Auth Token.
+             Figure 1:Blynk Cloud Console showing device configuration and Auth Token.
              Figure 1:Blynk Cloud Console showing device configuration and Auth Token.
 
 6. <img width="422" height="433" alt="image" src="https://github.com/user-attachments/assets/1d76679c-d67f-4607-869e-2424e46496c2" />
