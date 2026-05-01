@@ -75,9 +75,11 @@ or LED accordingly.
 
 
 ## Sytem Block Diagram representation
-<img width="1691" height="656" alt="Screenshot 2026-04-25 161551" src="https://github.com/user-attachments/assets/6d9e4b08-1891-4718-99f3-f609564b7b40" />
-
-Figure 3: Block diagram of the IoT-based Remote Device Control System illustrating communication between the Blynk App and the Relay module.
+<p align="center">
+  <img width="1691" height="656" alt="IoT Remote Control Block Diagram" src="https://github.com/user-attachments/assets/6d9e4b08-1891-4718-99f3-f609564b7b40" />
+  <br>
+  <em>Figure 3: Block diagram of the IoT-based Remote Device Control System illustrating communication between the Blynk App and the Relay module.</em>
+</p>
 
 ## System setup snapshot
 <img width="904" height="524" alt="image" src="https://github.com/user-attachments/assets/f7959228-5bc4-414a-b11c-d4af9fcb091f" />
