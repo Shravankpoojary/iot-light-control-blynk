@@ -48,9 +48,11 @@ or LED accordingly.
 3. Add a Button widget linked to Virtual Pin V0
 4. Copy your Auth Token and Template ID from Blynk Console
 
-<img width="853" height="365" alt="Screenshot 2026-05-01 105107" src="https://github.com/user-attachments/assets/c4ed38c1-5564-4e48-90db-68e1ec1323e4" />
-
-             <em>Figure 2: Blynk Cloud Console showing device configuration and Auth Token>
+<p align="center">
+  <img width="853" height="365" alt="Blynk Cloud Configuration" src="https://github.com/user-attachments/assets/c4ed38c1-5564-4e48-90db-68e1ec1323e4" />
+  <br>
+  <em>Figure 1: Blynk Cloud Console showing device configuration and Auth Token.</em>
+</p>
 
 <br><br>
 
