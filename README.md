@@ -92,12 +92,13 @@ or LED accordingly.
            Figure 5: Relay module in ON state indicating successful actuation via Blynk application
 
 
-## Project Demonstration Video 
+## Project Demonstration
 
 <p align="center">
+  <b>▶️ CLICK THE IMAGE BELOW TO WATCH THE VIDEO DEMONSTRATION</b><br><br>
   <a href="https://youtu.be/tiAHSkQ5L_E">
     <img width="100%" alt="IoT Light Control with Blynk Demo" src="https://img.youtube.com/vi/tiAHSkQ5L_E/maxresdefault.jpg" />
   </a>
   <br>
-  <em>Figure X: Real-time demonstration of controlling a relay module over Wi-Fi using the NodeMCU ESP8266 and the Blynk smartphone application.</em>
+  <em>YouTube video showing a real-time demonstration of controlling a relay module over Wi-Fi using the NodeMCU ESP8266 and the Blynk smartphone application.</em>
 </p>
