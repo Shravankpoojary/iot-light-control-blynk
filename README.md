@@ -49,11 +49,13 @@ or LED accordingly.
 4. Copy your Auth Token and Template ID from Blynk Console
 
 <img width="853" height="365" alt="Screenshot 2026-05-01 105107" src="https://github.com/user-attachments/assets/c4ed38c1-5564-4e48-90db-68e1ec1323e4" />
-             Figure 1:Blynk Cloud Console showing device configuration and Auth Token.
+Figure 1:Blynk Cloud Console showing device configuration and Auth Token.
         
 
+
+
 6. <img width="422" height="433" alt="image" src="https://github.com/user-attachments/assets/1d76679c-d67f-4607-869e-2424e46496c2" />
-              Figure 2: User Interface (UI) design on Blynk Mobile Application.
+Figure 2: User Interface (UI) design on Blynk Mobile Application.
 
 7. Open IOT_LIGHT_CONTROL_BLYNK.ino
 8. Replace the following with your own credentials:
