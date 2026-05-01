@@ -48,8 +48,7 @@ or LED accordingly.
 3. Add a Button widget linked to Virtual Pin V0
 4. Copy your Auth Token and Template ID from Blynk Console
 
- <img width="1376" height="768" alt="Firefly_Gemini Flash_similalry  iam going to upload this image to GitHub , i think there are some sensitiv 184744" src="https://github.com/user-attachments/assets/e52f3578-0b3a-493c-8f5c-78d129627f4a" />
-
+<img width="853" height="365" alt="Screenshot 2026-05-01 105107" src="https://github.com/user-attachments/assets/c4ed38c1-5564-4e48-90db-68e1ec1323e4" />
              Figure 1:Blynk Cloud Console showing device configuration and Auth Token.
         
 
