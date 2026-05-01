@@ -54,7 +54,7 @@ or LED accordingly.
 
 <br><br>
 
- <img width="422" height="433" alt="image" src="https://github.com/user-attachments/assets/1d76679c-d67f-4607-869e-2424e46496c2" />
+                 <img width="422" height="433" alt="image" src="https://github.com/user-attachments/assets/1d76679c-d67f-4607-869e-2424e46496c2" />
  
                 Figure 2: User Interface (UI) design on Blynk Mobile Application.
 
