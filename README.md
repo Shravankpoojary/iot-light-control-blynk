@@ -50,22 +50,24 @@ or LED accordingly.
 
 <img width="853" height="365" alt="Screenshot 2026-05-01 105107" src="https://github.com/user-attachments/assets/c4ed38c1-5564-4e48-90db-68e1ec1323e4" />
 
-          Figure 1: Blynk Cloud Console showing device configuration and Auth Token.
+                 Figure 1: Blynk Cloud Console showing device configuration and Auth Token.
 
 <br><br>
 
-6. <img width="422" height="433" alt="image" src="https://github.com/user-attachments/assets/1d76679c-d67f-4607-869e-2424e46496c2" />
-Figure 2: User Interface (UI) design on Blynk Mobile Application.
+ <img width="422" height="433" alt="image" src="https://github.com/user-attachments/assets/1d76679c-d67f-4607-869e-2424e46496c2" />
+ 
+                Figure 2: User Interface (UI) design on Blynk Mobile Application.
 
-7. Open IOT_LIGHT_CONTROL_BLYNK.ino
-8. Replace the following with your own credentials:
+
+5. Open IOT_LIGHT_CONTROL_BLYNK.ino
+6. Replace the following with your own credentials:
    - YOUR_TEMPLATE_ID → your Blynk Template ID
    - YOUR_BLYNK_AUTH_TOKEN → your Blynk Auth Token
    - YOUR_WIFI_SSID → your WiFi network name
    - YOUR_WIFI_PASSWORD → your WiFi password
-9. Select board: NodeMCU 1.0 (ESP-12E Module)
-10. Upload the code
-11. Open Blynk app and press the button to control device
+7. Select board: NodeMCU 1.0 (ESP-12E Module)
+8. Upload the code
+9. Open Blynk app and press the button to control device
 
 
 ## Sytem Block Diagram representation
