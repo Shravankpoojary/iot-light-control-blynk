@@ -1,2 +1,78 @@
 # iot-light-control-blynk
+### Minor Project | GlowLogics Solutions Pvt. Ltd. Internship 2025-26
+
 A dual-module IoT implementation using the ESP8266 NodeMCU to perform real-time environmental sensing via ThingSpeak and secure remote device actuation through the Blynk IoT platform.
+
+## Overview
+A remote device control system that allows a user to switch 
+an electrical load ON and OFF wirelessly from anywhere using 
+the Blynk mobile application. The ESP8266 NodeMCU receives 
+commands from the Blynk cloud and controls a relay module 
+or LED accordingly.
+
+## How It Works
+1. User presses ON/OFF button on Blynk mobile app
+2. Command is sent over internet to Blynk cloud platform
+3. Blynk cloud identifies the device using Auth Token
+4. Command is forwarded to ESP8266 NodeMCU
+5. NodeMCU changes GPIO pin state to control relay or LED
+6. Relay switches the connected appliance ON or OFF
+
+## Hardware Required
+- ESP8266 NodeMCU microcontroller board
+- 5V Relay module OR 3V LED (for demonstration)
+- Breadboard and jumper wires
+- USB micro cable for programming and power
+- Smartphone (Android or iOS)
+
+## Wiring
+| Component  | NodeMCU Pin     |
+|------------|-----------------|
+| Relay IN   | D4 (GPIO2)      |
+| Relay VCC  | 5V (VIN)        |
+| Relay GND  | GND             |
+
+## Software Required
+- Arduino IDE
+- ESP8266 board core installed in Arduino IDE
+- Blynk library for ESP8266
+- Blynk mobile app (Android / iOS)
+
+## Cloud Platform
+- Blynk IoT — https://blynk.io
+- Virtual Pin V0 → Controls relay ON/OFF
+
+## Setup Instructions
+1. Install Blynk app on your smartphone
+2. Create a new template in Blynk Cloud Console
+3. Add a Button widget linked to Virtual Pin V0
+4. Copy your Auth Token and Template ID from Blynk Console
+5. <img width="1376" height="768" alt="Firefly_Gemini Flash_similalry  iam going to upload this image to GitHub , i think there are some sensitiv 184744" src="https://github.com/user-attachments/assets/e52f3578-0b3a-493c-8f5c-78d129627f4a" />
+Figure 1:Blynk Cloud Console showing device configuration and Auth Token.
+
+<img width="422" height="433" alt="image" src="https://github.com/user-attachments/assets/1d76679c-d67f-4607-869e-2424e46496c2" />
+Figure 2: User Interface (UI) design on Blynk Mobile Application.
+
+7. Open IOT_LIGHT_CONTROL_BLYNK.ino
+8. Replace the following with your own credentials:
+   - YOUR_TEMPLATE_ID → your Blynk Template ID
+   - YOUR_BLYNK_AUTH_TOKEN → your Blynk Auth Token
+   - YOUR_WIFI_SSID → your WiFi network name
+   - YOUR_WIFI_PASSWORD → your WiFi password
+9. Select board: NodeMCU 1.0 (ESP-12E Module)
+10. Upload the code
+11. Open Blynk app and press the button to control device
+
+
+## Sytem Block Diagram representation
+<img width="902" height="316" alt="image" src="https://github.com/user-attachments/assets/9b2f5746-afde-48d8-8f36-4b2467190945" />
+Figure 3: Block diagram of the IoT-based Remote Device Control System illustrating communication between the Blynk App and the Relay module.
+
+## System setup snapshot
+<img width="904" height="524" alt="image" src="https://github.com/user-attachments/assets/f7959228-5bc4-414a-b11c-d4af9fcb091f" />
+Figure 4: Prototype hardware setup featuring ESP8266 and 5V Relay Module.
+
+## Expected Output
+<img width="903" height="406" alt="image" src="https://github.com/user-attachments/assets/85ef2661-45f0-4543-90fc-7e9bd6777551" />
+Figure 5: Relay module in ON state indicating successful actuation via Blynk application
+
