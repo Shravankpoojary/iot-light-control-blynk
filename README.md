@@ -50,7 +50,7 @@ or LED accordingly.
 
 <img width="853" height="365" alt="Screenshot 2026-05-01 105107" src="https://github.com/user-attachments/assets/c4ed38c1-5564-4e48-90db-68e1ec1323e4" />
 
-                 Figure 1: Blynk Cloud Console showing device configuration and Auth Token.
+  <em>Figure 2: User Interface (UI) design on Blynk Mobile Application.</em>
 
 <br><br>
 
