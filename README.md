@@ -50,7 +50,7 @@ or LED accordingly.
 
 <img width="853" height="365" alt="Screenshot 2026-05-01 105107" src="https://github.com/user-attachments/assets/c4ed38c1-5564-4e48-90db-68e1ec1323e4" />
 
-  <em>Figure 2: User Interface (UI) design on Blynk Mobile Application.</em>
+             <em>Figure 2: Blynk Cloud Console showing device configuration and Auth Token>
 
 <br><br>
 
