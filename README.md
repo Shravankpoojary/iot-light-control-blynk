@@ -83,9 +83,11 @@ or LED accordingly.
 
 ## System setup snapshot
 <img width="904" height="524" alt="image" src="https://github.com/user-attachments/assets/f7959228-5bc4-414a-b11c-d4af9fcb091f" />
-Figure 4: Prototype hardware setup featuring ESP8266 and 5V Relay Module.
+
+              Figure 4: Prototype hardware setup featuring ESP8266 and 5V Relay Module.
 
 ## Expected Output
 <img width="903" height="406" alt="image" src="https://github.com/user-attachments/assets/85ef2661-45f0-4543-90fc-7e9bd6777551" />
-Figure 5: Relay module in ON state indicating successful actuation via Blynk application
+
+           Figure 5: Relay module in ON state indicating successful actuation via Blynk application
 
