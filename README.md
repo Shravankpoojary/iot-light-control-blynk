@@ -60,6 +60,7 @@ or LED accordingly.
   <em>Figure 2: User Interface (UI) design on Blynk Mobile Application.</em>
 </p> 
                 Figure 2: User Interface (UI) design on Blynk Mobile Application.
+<br><br>
 
 
 5. Open IOT_LIGHT_CONTROL_BLYNK.ino
