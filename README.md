@@ -97,7 +97,7 @@ or LED accordingly.
 <p align="center">
   <b>▶️ CLICK THE IMAGE BELOW TO WATCH THE VIDEO DEMONSTRATION</b><br><br>
   <a href="https://youtu.be/tiAHSkQ5L_E">
-    <img width="100%" alt="IoT Light Control with Blynk Demo" src="https://img.youtube.com/vi/tiAHSkQ5L_E/maxresdefault.jpg" />
+<img width="1310" height="816" alt="Firefly (29)" src="https://github.com/user-attachments/assets/947a2cee-a391-4494-bb83-3d1a3b73f27e" />
   </a>
   <br>
   <em>YouTube video showing a real-time demonstration of controlling a relay module over Wi-Fi using the NodeMCU ESP8266 and the Blynk smartphone application.</em>
